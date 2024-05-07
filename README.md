@@ -17,3 +17,13 @@ Ce parcours, c’est votre passeport pour devenir le champion des testeurs, celu
 Préparez-vous à combiner rigueur et créativité, et à voir les tests sous un jour totalement nouveau. Embarquez avec nous pour transformer les challenges en opportunités et faire des logiciels un terrain de jeu sans limite 🚀🌌.
 
 Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au cœur de l'action, au cœur des Tests ! 🙌💥
+
+
+# Cours
+
+- [Les tests en informatique]()
+- [Les différents type de tests à connaitre]()
+
+# Livecode
+# Exercices
+# Ressources
