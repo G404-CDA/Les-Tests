@@ -28,3 +28,33 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 - [HamzaKarfa - Replit](https://replit.com/@HamzaKarfa1/LivecodeTest#index.php)
 # Exercices
 # Ressources
+## 📽️ Vidéos
+
+- Phpunit : Tutoriel PHPUnit : Tests unitaires, PHPUnit
+
+- PhpUnit : Tutoriel PHP - Tests unitaires, PHPUnit
+
+- Mockery : Testing For PHP & Developers- (Mockery)
+
+- Acceptance Laravel : Laravel 5.8 Tutorial From Scratch - e49 - Testing 101 Using PHPUnit
+
+## 📖 Ressources
+
+- ♨️ https://openclassrooms.com/fr/courses/4087056-testez-et-suivez-letat-de-votre-application-php?status=published
+
+- Mockery : https://code.tutsplus.com/tutorials/mockery-a-better-way--net-28097
+
+- Mockery : PHP Test Driven Development Part 4: Enter The Mock
+
+- Mockery : minutephp/mockery-cheat-sheet
+
+- Native Mocking : Native Mocking and Stubbing in PHP
+
+- Toutes les cheatsheets du monde : The Best Cheat Sheets, Guides & Docs for Web Designers and Web Developers
+
+- PhpUnit CheatSheeeeeeeeet : http://otroblogmas.com/wp-content/uploads/2011/06/PHPUnit-Cheat-Sheet.png
+
+## 🧙Ressources intéressantes
+
+- https://github.com/ziadoz/awesome-php#testing
+- https://github.com/unicodeveloper/awesome-tdd#tdd-in-php
