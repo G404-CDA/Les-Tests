@@ -21,8 +21,8 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 
 # Cours
 
-- [Les tests en informatique]()
-- [Les différents type de tests à connaitre]()
+- [Les tests en informatique](https://docs.google.com/presentation/d/1fRxXk4yR4XuKED9eo88rSODm4kQa4olMROTbbhiMYxU)
+- [Les Tests en PHP et JS](https://docs.google.com/presentation/d/1cu6BTMzV2lbArfYfJP3wSHRq29OSEimgpje2ORA-4Lw)
 
 # Livecode
 # Exercices
