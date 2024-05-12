@@ -27,6 +27,9 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 # Livecode
 - [HamzaKarfa - Replit](https://replit.com/@HamzaKarfa1/LivecodeTest#index.php)
 # Exercices
+
+- [Exercices PHP](https://github.com/G404-CDA/Exercices-test)
+
 # Ressources
 ## 📽️ Vidéos
 
