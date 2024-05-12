@@ -34,31 +34,29 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 # Ressources
 ## 📽️ Vidéos
 
-- Phpunit : Tutoriel PHPUnit : Tests unitaires, PHPUnit
-
-- PhpUnit : Tutoriel PHP - Tests unitaires, PHPUnit
-
-- Mockery : Testing For PHP & Developers- (Mockery)
-
-- Acceptance Laravel : Laravel 5.8 Tutorial From Scratch - e49 - Testing 101 Using PHPUnit
+- [Grafikart - PHPUnit](https://grafikart.fr/tutoriels/phpunit)
+- [Moquerie - Framework moqueur]()
+- [Playlist Testing All The Thing](https://www.youtube.com/watch?v=04FzlrMKPTM&list=PLtFquUj7IL8V8Ih7PGWqQb8tnldag6nz8)
+- [Tester avec Laravel](https://www.youtube.com/watch?v=_MJmU-wRwpI)
+- [Tester avec Symfony](https://www.youtube.com/watch?v=ukocHoa8y3o)
+- [Apprendre les tests avec laravel](https://www.youtube.com/watch?v=q0HbDiScaRM)
 
 ## 📖 Ressources
 
-- ♨️ https://openclassrooms.com/fr/courses/4087056-testez-et-suivez-letat-de-votre-application-php?status=published
+- ♨️ [Open Classroom](https://openclassrooms.com/fr/courses/4087056-testez-unitairement-votre-application-php-symfony/7828665-faites-vos-premiers-pas-avec-phpunit-et-les-tests-unitaires)
 
-- Mockery : https://code.tutsplus.com/tutorials/mockery-a-better-way--net-28097
+- [Mockery Tips](https://darkghosthunter.medium.com/php-10-tips-to-use-for-mockery-33673ba01321)
 
-- Mockery : PHP Test Driven Development Part 4: Enter The Mock
+- [L'art de Mocker en TDD](https://blog.bitsrc.io/the-art-of-mocking-in-tdd-d81edf9f8f02)
 
-- Mockery : minutephp/mockery-cheat-sheet
+- [Mockery CheatSheet](https://github.com/minutephp/mockery-cheat-sheet)
 
-- Native Mocking : Native Mocking and Stubbing in PHP
+- [Stub vs Mock](https://www.turing.com/kb/stub-vs-mock)
 
-- Toutes les cheatsheets du monde : The Best Cheat Sheets, Guides & Docs for Web Designers and Web Developers
-
-- PhpUnit CheatSheeeeeeeeet : http://otroblogmas.com/wp-content/uploads/2011/06/PHPUnit-Cheat-Sheet.png
+- [Toutes les CheatSheets du monde](https://medium.com/level-up-web/the-best-cheat-sheets-guides-docs-for-web-designers-and-web-developers-8e335a0aad77)
+- [PhpUnit CheatSheeeeeeeeet](https://gist.github.com/loonies/1255249)
 
 ## 🧙Ressources intéressantes
 
-- https://github.com/ziadoz/awesome-php#testing
-- https://github.com/unicodeveloper/awesome-tdd#tdd-in-php
+- [Awesome PHP](https://github.com/ziadoz/awesome-php#testing)
+- [TDD en PHP](https://github.com/unicodeveloper/awesome-tdd#tdd-in-php)
