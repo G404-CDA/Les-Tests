@@ -32,7 +32,7 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 - [Exercices JS](https://github.com/G404-CDA/Exercices-test)
 
 # Ressources
-### 📽️ Vidéos
+#### 📽️ Vidéos
 
 - [Grafikart - PHPUnit](https://grafikart.fr/tutoriels/phpunit)
 - [Moquerie - Framework moqueur]()
@@ -41,7 +41,7 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 - [Tester avec Symfony](https://www.youtube.com/watch?v=ukocHoa8y3o)
 - [Apprendre les tests avec laravel](https://www.youtube.com/watch?v=q0HbDiScaRM)
 
-### 📖 Ressources
+#### 📖 Ressources
 
 - ♨️ [Open Classroom](https://openclassrooms.com/fr/courses/4087056-testez-unitairement-votre-application-php-symfony/7828665-faites-vos-premiers-pas-avec-phpunit-et-les-tests-unitaires)
 
@@ -56,7 +56,7 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 - [Toutes les CheatSheets du monde](https://medium.com/level-up-web/the-best-cheat-sheets-guides-docs-for-web-designers-and-web-developers-8e335a0aad77)
 - [PhpUnit CheatSheeeeeeeeet](https://gist.github.com/loonies/1255249)
 
-## 🧙Ressources intéressantes
+#### 🧙Ressources intéressantes
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php#testing)
 - [TDD en PHP](https://github.com/unicodeveloper/awesome-tdd#tdd-in-php)
