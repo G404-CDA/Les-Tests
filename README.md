@@ -29,7 +29,7 @@ Alors, prêt à rejoindre l'aventure et à faire la différence ? Bienvenue au c
 # Exercices
 
 - [Exercices PHP](https://github.com/G404-CDA/Exercices-test)
-- [Exercices JS](https://github.com/G404-CDA/Exercices-test)
+- [Exercices JS](https://github.com/G404-CDA/Exercices-tests-js)
 
 # Ressources
 #### 📽️ Vidéos
