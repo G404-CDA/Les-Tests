@@ -28,7 +28,7 @@ Vous devez implémenter une nouvelle fonctionnalité (ou compléter une existant
 
 ---
 
-### 3. **Implémenter la logique métier en TDD** 🛠️
+### 3. **Implémenter la logique métier en TDD**
 
 Suivez la méthodologie **TDD** pour chaque partie de la logique métier de votre fonctionnalité. Respectez les trois règles du TDD :
 
@@ -43,7 +43,7 @@ Suivez la méthodologie **TDD** pour chaque partie de la logique métier de votr
 
 ---
 
-### 4. **Tester les parties CRUD avec des tests d'intégration** 🔄
+### 4. **Tester les parties CRUD avec des tests d'intégration**
 
 - Mettez en place des tests d'intégration pour les opérations CRUD associées à votre fonctionnalité.
 - Ces tests doivent vérifier la cohérence des interactions entre les différents composants (base de données, contrôleurs, etc.).
@@ -59,7 +59,7 @@ Suivez la méthodologie **TDD** pour chaque partie de la logique métier de votr
 
 ---
 
-### 6. **Créer un test End-to-End** 🌍
+### 6. **Créer un test End-to-End**
 
 - Implémentez au moins un test End-to-End pour valider la fonctionnalité dans son ensemble.
 - Utilisez **Dusk** pour écrire ce test fonctionnel.
