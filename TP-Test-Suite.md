@@ -38,8 +38,8 @@ Suivez la méthodologie **TDD** pour chaque partie de la logique métier de votr
 
 - Utilisez **PHPUnit** ou **Pest** pour écrire des tests unitaires.
 - Ne faites pas de TDD pour les parties CRUD classiques.
-- **Les tests, c'est du code !** La phase de refactorisation concerne non seulement le code mais également les tests. **DRY s'applique également aux tests !**
 
+⚠️ **Les tests, c'est du code !** La phase de refactorisation concerne autant le code que les tests. **Les bonnes pratiques telles que DRY s'appliquent également aux tests !**
 
 ---
 
