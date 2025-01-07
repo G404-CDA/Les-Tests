@@ -36,9 +36,9 @@ Suivez la méthodologie **TDD** pour chaque partie de la logique métier de votr
 2. **N'écrivez un test que s'il échoue initialement (une erreur de compilation est un échec).**
 3. **N'écrivez pas plus de code de production que nécessaire pour faire passer le test.**
 
-- Utilisez **PHPUnit** pour écrire des tests unitaires.
+- Utilisez **PHPUnit** ou **Pest** pour écrire des tests unitaires.
 - Ne faites pas de TDD pour les parties CRUD classiques.
-
+- **Les tests, c'est du code !** La phase de refactorisation concerne non seulement le code mais également les tests. **DRY s'applique également aux tests !**
 
 
 ---
