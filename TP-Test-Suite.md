@@ -21,7 +21,7 @@ Vous devez implémenter une nouvelle fonctionnalité (ou compléter une existant
 
 ### 2. **Décrire la fonctionnalité en BDD** 
 
-- Utilisez **Behat** pour écrire des scénarios décrivant la fonctionnalité en langage naturel (Gherkin).
+- Utilisez **Codeception** pour écrire des scénarios décrivant la fonctionnalité en langage naturel (Gherkin).
 - Décrivez le comportement attendu sous forme de scénarios clairs et compréhensibles.
 
 
@@ -54,7 +54,7 @@ Suivez la méthodologie **TDD** pour chaque partie de la logique métier de votr
 
 ### 5. **Vérifier la fonctionnalité avec un test BDD** ✅
 
-- Une fois que la logique métier et les opérations CRUD sont implémentées, exécutez vos scénarios BDD avec Behat.
+- Une fois que la logique métier et les opérations CRUD sont implémentées, exécutez vos scénarios BDD avec Codeception.
 - Assurez-vous que tous les scénarios passent avec succès.
 
 ---
